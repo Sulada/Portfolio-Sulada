@@ -1,11 +1,27 @@
 .menu {
-    color: #e20a0a;
+    color: #2e1aa1;
     text-align: center;
 }
 .ggfont{
     font-family: 'Oswald', sans-serif;
 }
-.wh{
-    width:"600"; 
-    height:"370";
+
+.footerandheader{
+    background-color: #B0C4DE;
+    color: rgb(66, 66, 209);
+}
+.detail{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: darkblue;
+}
+.indextext{
+    font-family: 'Oswald', sans-serif;
+    color: darkslateblue;
+}
+.homebt{
+    background-color: #708090;
+    border: 0;
+    margin-left: 45%;
+    font-size: large;
 }
