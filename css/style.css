@@ -1,3 +1,15 @@
+body,h1 {
+  font-family: "Raleway", sans-serif;
+}
+body, html {
+  height: 100%;
+}
+.bgimg {
+background-image: url('pic/view1.jpg');
+min-height: 100%;
+background-position: center;
+background-size: cover;
+}
 .menu {
     color: #2e1aa1;
     text-align: center;
@@ -24,4 +36,10 @@
     border: 0;
     margin-left: 45%;
     font-size: large;
+}
+.portfo{
+  text-align: center;
+}
+.portfotext{
+  font-size: x-large;
 }
